@@ -5,7 +5,7 @@ import Image from "next/image"
 export const Camp = () => {
   const campsUI = CAMPS.map(camp => {
     return(
-      <div className={`h-full w-full min-w-[1100px] bg-${camp.img} bg-cover bg-no-repeat lg:rounded-r-5xl 2xl:rounded-5xl`}  key={camp.camp + camp.location + camp.joined}>
+      <div className={`h-full w-full min-w-[1100px] ${camp.img} bg-cover bg-no-repeat lg:rounded-r-5xl 2xl:rounded-5xl`}  key={camp.camp + camp.location + camp.joined}>
         <div className="flex h-full flex-col items-start justify-between p-6 lg:px-20 lg:py-10">
           <div className="flexCenter bg-gray-20 rounded-full pr-4 bg-opacity-40 gap-4">
               <div className="rounded-full bg-green-50 p-4">
