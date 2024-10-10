@@ -31,13 +31,6 @@ module.exports = {
         },
       },
       backgroundImage: {
-        'bg-img-1': "url('./public/mount-catherine.webp')",
-        'bg-img-2': "url('./public/ras-mohamed.webp')",
-        'bg-img-3': "url('./public/dahab.jpg')",
-        'bg-img-4': "url('./public/siwa-oasis.webp')",
-        'bg-img-5': "url('./public/wadi-elhitan.jpg')",
-        'bg-img-6': "url('./public/qubbet-elhawa.webp')",
-        'bg-img-7': "url('./public/theban-mounts.webp')",
         'feature-bg': "url('/feature-bg.png')",
         pattern: "url('/pattern.png')",
         'pattern-2': "url('/pattern-bg.png')",
