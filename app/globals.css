@@ -134,25 +134,25 @@ body {
     @apply absolute -right-6 bottom-4 w-[140px] lg:bottom-10 xl:-right-8 xl:w-[186px] 3xl:right-0;
   }
   .bgimg-1 {
-    background-image: url('/mount-catherine.webp');
+    background-image: url('https://github.com/madatef/campat/tree/main/public/mount-catherine.webp');
   }
   .bgimg-2 {
-    background-image: url('/ras-mohamed.webp');
+    background-image: url('https://github.com/madatef/campat/tree/main/public/ras-mohamed.webp');
   }
   .bgimg-3 {
-    background-image: url('/dahab.jpg');
+    background-image: url('https://github.com/madatef/campat/tree/main/public/dahab.jpg');
   }
   .bgimg-4 {
-    background-image: url('/siwa-oasis.webp');
+    background-image: url('https://github.com/madatef/campat/tree/main/public/siwa-oasis.webp');
   }
   .bgimg-5 {
-    background-image: url('/wadi-elhitan.jpg');
+    background-image: url('https://github.com/madatef/campat/tree/main/public/wadi-elhitan.jpg');
   }
   .bgimg-6 {
-    background-image: url('/qubbet-elhawa.webp');
+    background-image: url('https://github.com/madatef/campat/tree/main/public/qubbet-elhawa.webp');
   }
   .bgimg-7 {
-    background-image: url('/theban-mounts.webp');
+    background-image: url('https://github.com/madatef/campat/tree/main/public/theban-mounts.webp');
   }
 
   /* Feature */
