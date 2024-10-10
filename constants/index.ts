@@ -25,43 +25,43 @@ export const NAV_LINKS = [
     {
       camp: "Mount Catherine",
       location: "St. Catherine, South Sinai",
-      img: "bgimg-1",
+      img: "url('/mount-catherine.webp')",
       joined: "72"
     },
     {
       camp: "Ras Mohamed",
       location: "Sharm Al-Shiekh, South Sinai",
-      img: "bgimg-2",
+      img: "url('/ras-mohamed.webp')",
       joined: "47"
     },
     {
       camp: "Dahab",
       location: "Dahab, South Sinai",
-      img: "bgimg-3",
+      img: "url('/dahab.jpg')",
       joined: "126"
     },
     {
       camp: "Siwa Oasis",
       location: "Siwa, Matrouh",
-      img: "bgimg-4",
+      img: "url('/siwa-oasis.webp')",
       joined: "38"
     },
     {
       camp: "Garet Gohannam (Mount of Hell)",
       location: "Whale Valley, Faiyum",
-      img: "bgimg-5",
+      img: "url('/wadi-elhitan.jpg')",
       joined: "41"
     },
     {
       camp: "Qubbet Al-Hawa (Dome of The Wind)",
       location: "Aswan, Aswan",
-      img: "bgimg-6",
+      img: "url('/qubbet-elhawa.webp')",
       joined: "32"
     },
     {
       camp: "Theban Mounts",
       location: "Theban Hills, Luxor",
-      img: "bgimg-7",
+      img: "url('/theban-mounts.webp')",
       joined: "27"
     }
   ];
